@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Avika 👋
 
-<!--
-**avikadadhich1723-arch/avikadadhich1723-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | Full Stack Development | Python | DSA**
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about building practical web applications and improving my problem-solving skills. I'm currently strengthening my foundations in Data Structures and Algorithms, Python, and Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- Full Stack Web Development
+- Python Programming
+- Data Structures and Algorithms (DSA)
+- Git, GitHub, and Open Source Contribution
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
+- **Core Concepts:** Data Structures and Algorithms
+- **Tools:** Git, GitHub, VS Code
+
+### 🎯 Goals
+- Build practical, real-world web applications
+- Improve problem-solving and coding skills
+- Contribute to open-source projects
+
+
+
+
+
+---
+
+*Learning consistently, building projects, and growing as a developer — one step at a time.* 🚀
